@@ -42,3 +42,4 @@ df['open'] = df['open'] * df['adj close'] / df['close']
 * [Python for Finance - Financial Time Series](https://github.com/yhilpisch/py4fi/blob/master/ipython3/06_Financial_Time_Series.ipynb)
 * [Pandas 入門教學講義](https://github.com/Wei1234c/Introduction_to_Pandas)
 * [Pandas API Reference](http://pandas.pydata.org/pandas-docs/stable/api.html)
+* [Jacky97](https://github.com/Jacky97s/PyConTW2017/edit/master/Readme.md)
